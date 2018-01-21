@@ -1,0 +1,15 @@
+1 liczba w tablicy to 14
+2 liczba w tablicy to 7
+3 liczba w tablicy to 4
+4 liczba w tablicy to 8
+5 liczba w tablicy to 16
+6 liczba w tablicy to 3
+7 liczba w tablicy to 10
+8 liczba w tablicy to 3
+9 liczba w tablicy to 10
+10 liczba w tablicy to 0
+11 liczba w tablicy to 3
+12 liczba w tablicy to 9
+13 liczba w tablicy to 7
+14 liczba w tablicy to 2
+15 liczba w tablicy to 0
