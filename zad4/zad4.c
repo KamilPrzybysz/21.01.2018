@@ -3,10 +3,11 @@
 
 int main(int argc, char const *argv[])
 {
-  int a,b;
+  int a,b,c;
   scanf("%d %d", &a, &b);
-  int wynik=a*b;
-  printf("wynik a*b= %d\n", wynik);
+  c=a%b;
+  int wynik=(a*b)/c;
+  printf("NWW a i b= %d\n", wynik);
 
   return 0;
 }

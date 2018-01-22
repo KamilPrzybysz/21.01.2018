@@ -1,1 +1,1 @@
-wynik a*b= 21
+NWW a i b= 4
